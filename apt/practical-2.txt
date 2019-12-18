@@ -1,0 +1,11 @@
+Practical 2
+Console Based Applications using C#
+
+
+    1. W.A.P to get n number of strings from the user. Find out total no. of duplicate strings and display duplicate strings along with duplicate occurrence using 1D array. 
+       
+    2. W.A.P to calculate area of Circle, Ractangle, Square and Tringle. Which contain two classes in which 1st class contains main method & 2nd class which contains methods to find area for diff. shapes using method overloading.
+       
+    3. W.A.P. to find max and min number from an integer array. Create a method getMinMax() by passing out parameter.
+       
+    4. Write a Program to create an int Jagged Array which consists at least  5 array in it. Sort every array of Jagged array and display all jagged array after sorting.
