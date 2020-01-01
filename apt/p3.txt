@@ -1,0 +1,6 @@
+Practical - 3
+Delegates and events
+
+    1. Create a delegate calArea(float a,float b) with two float type parameters  and having void return type. Create delegate instances for Calculate area of rectangle and triangle and display result on the screen.
+    2. Create a delegate with one string parameter and having string return type. Use delegate firstly for concateStr() and secondly use it for reverseStr() method. Create instances of delegate and display concat as well as reverse string by combining delegate instances.
+    3. Create a program which implements delegate with event model for string modification. Whenever string is modified (by Replace()) fire an event to display a message that is “String is modified”.
